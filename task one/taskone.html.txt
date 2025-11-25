@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome Page</title>
+    <style>
+        h1 { text-align: center; }
+        p { color: darkgray; }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Web Development</h1>
+    <p>This is the beginning of web development.</p>
+    <p>We are learning HTML and CSS.</p>
+</body>
+</html>
